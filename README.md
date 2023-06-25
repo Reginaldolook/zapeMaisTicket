@@ -9,3 +9,4 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 cd && rm -rf instalodordeploy && git clone https://github.com/ctichat/instalodordeploy.git && sudo chmod -R 777 instalodordeploy && cd instalodordeploy && sudo ./install_instancia
 ```
 
+# zapemaisWhats
